@@ -1,0 +1,11 @@
+ticket_name,status,priority,source
+Payment Failure Issue,New,High,Chat
+Product Inquiry,Waiting on us,Medium,Email
+Subscription Upgrade,New,High,Chat
+Refund Request,Waiting on contact,Low,Phone
+Pricing Clarification,Closed,Medium,Chat
+Login Not Working,Waiting on us,Critical,Phone
+Feature Request Reports,Waiting on contact,High,Phone
+SLA Violation Complaint,Closed,Medium,Chat
+billing issue,New,Low,Email
+Account Access Problem,Waiting on us,High,Phone
